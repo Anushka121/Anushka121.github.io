@@ -1,0 +1,134 @@
+{
+    "questions": [{
+            "questionText": "What word is spelled incorrectly in every single dictionary?",
+            "options": [{
+                    "text": "Incorrectly",
+                    "correct": true
+                },
+                {
+                    "text": "oops wrong!!"
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "How do you make the number one disappear?",
+            "options": [{
+                    "text": "oops wrong!!"
+                },
+                {
+                    "text": "Add the letter G and it’s “gone”!",
+					"correct": true
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What has a face and two hands, but no arms or legs?",
+            "options": [{
+                    "text": "oops wrong!!"
+                },
+                {
+                    "text": "A Clock",
+                    "correct": true
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "How many months have 28 days?",
+            "options": [{
+                    "text": "oops wrong!!"
+                },
+                {
+                    "text": "12",
+                    "correct": true
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What has a thumb and four fingers but isn’t actually alive?",
+            "options": [{
+                    "text": "Gloves",
+                    "correct": true
+                },
+                {
+                    "text": "oops wrong!!"
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What gets sharper the more you use it?",
+            "options": [{
+                    "text": "oops wrong!!",
+					"correct": true
+                },
+                {
+                    "text": "Brain"
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What has a neck but no head?",
+            "options": [{
+                    "text": "oops wrong!!"
+                },
+                {
+                    "text": "Bottle",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What is always coming but never arrives? ",
+            "options": [{
+                    "text": "Tomorrow",
+                    "correct": true
+                },
+                {
+                    "text": "oops wrong!!"
+                }
+            
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Where can you find cities, towns, shops, and streets but no people?",
+            "options": [
+			    {
+                    "text": "Map",
+                    "correct": true
+                },
+                {
+                    "text": "oops wrong!!"
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "I am an odd number. Take away a letter and I become even – what number am I?",
+            "options": [
+			    {
+                    "text": "Seven",
+                    "correct": true
+                },
+                {
+                    "text": "oops wrong!!"
+                }
+                
+            ],
+            "explanation": ""
+        }
+    ]
+}
