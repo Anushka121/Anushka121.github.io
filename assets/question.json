@@ -1,8 +1,8 @@
 {
     "questions": [{
-            "questionText": "What word is spelled incorrectly in every single dictionary?",
+            "questionText": "What never asks a question but gets answered all the time?",
             "options": [{
-                    "text": "Incorrectly",
+                    "text": "Your cellphone",
                     "correct": true
                 },
                 {
@@ -67,11 +67,11 @@
         {
             "questionText": "What gets sharper the more you use it?",
             "options": [{
-                    "text": "oops wrong!!",
+                    "text": "Brain",
 					"correct": true
                 },
                 {
-                    "text": "Brain"
+                    "text": "oops wrong!!"
                 }
                 
             ],
